@@ -1,4 +1,4 @@
-Los repositorios subidos están compuestos con todos los proyectos realizados hasta el momento, ya se por motivos personales o académicos, con el proposito de mostrar los diversas tareas realizdas que dejan constancia de los aprendido hasta el momento.
+Los repositorios subidos están compuestos con todos los proyectos realizados hasta el momento, ya sea por motivos personales o académicos, con el proposito de mostrar los diversas tareas realizdas que dejan constancia de lo aprendido hasta el momento.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//santiago-janon-4428a32ba/) 
